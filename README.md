@@ -10,7 +10,7 @@ Clone:
 
 ```sh
 cd ~/.oh-my-zsh/custom/themes
-git clone https://github.com/odgon/traista
+git clone https://github.com/exaluc/traista
 ```
 
 Change theme in .zshrc:
@@ -19,20 +19,20 @@ Change theme in .zshrc:
 ZSH_THEME="traista/traista"
 ```
 
-Or you can simply install with my [.dotfiles](https://github.com/odgon/dotfiles) :
+Or you can simply install with my [.dotfiles](https://github.com/exaluc/dotfiles) :
 
 ```sh
 cd
-git clone https://github.com/odgon/dotfiles
+git clone https://github.com/exaluc/dotfiles
 cd dotfiles
 zsh install.sh
 ```
 
 Reload your terminal.
 
-## Screen
+<!-- ## Screen
 
-![](screen.png)
+![](screen.png) -->
 
 
 ## Requirements
@@ -51,8 +51,8 @@ Reload your terminal.
 
 ## Meta
 
-Lucian – [@odgon](https://twitter.com/odgon)
+Lucian – [@exaluc](https://twitter.com/exaluc)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[traistă](https://github.com/odgon/traista)
+[traistă](https://github.com/exaluc/traista)
