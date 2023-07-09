@@ -1,5 +1,5 @@
 # traistă theme v0.0.2
-# https://github.com/odgon/traista
+# https://github.com/exaluc/traista
 
 # The prompt
 
